@@ -1,0 +1,22 @@
+[
+    { "id": 1, "name": "Anti-Mage", "role": "Carry", "primaryAttribute": "Agility",  "img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/antimage_full.png", "com":"Kрип"},
+    { "id": 2, "name": "Axe", "role": "Initiator", "primaryAttribute": "Strength",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/axe_full.png", "com":"Tопор" },
+    { "id": 3, "name": "Earth Spiriе", "role": "Initiator", "primaryAttribute": "Strength",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/earth_spirit_full.png", "com":"Увековеченно в камне" },
+    { "id": 4, "name": "Bloodseeker", "role": "Carry", "primaryAttribute": "Agility",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/bloodseeker_full.png", "com":"Kровосися" },
+    { "id": 5, "name": "Techies", "role": "Support", "primaryAttribute": "Intelligence",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_full.png", "com":"Минер" },
+    { "id": 21, "name": "Skywrath Mage", "role": "Nuker", "primaryAttribute": "Intelligence", "img": "http://cdn.dota2.com/apps/dota2/images/heroes/skywrath_mage_full.png", "com":"Петух" },
+    { "id": 7, "name": "Arc Warden",   "role": "Carry", "primaryAttribute": "Agility",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_full.png", "com":"Шизоид" },
+    { "id": 8, "name": "Monkey King", "role": "Carry", "primaryAttribute": "Agility",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/monkey_king_full.png", "com":"Макака" },
+    { "id": 9, "name": "Bristleback", "role": "Tank", "primaryAttribute": "Strength",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/bristleback_full.png", "com":"Двухкнопочное говно" },
+    { "id": 10, "name": "Morphling", "role": "Carry", "primaryAttribute": "Agility",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/morphling_full.png", "com":"Водичка" },
+    { "id": 11, "name": "Witch Doctor", "role": "Support", "primaryAttribute": "Intelligence",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/witch_doctor_full.png", "com":" сын шлюхи" },
+    { "id": 12, "name": "Centaur Warrunner", "role": "Nuker", "primaryAttribute": "Strength",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/centaur_full.png", "com":"Корова" },
+    { "id": 13, "name": "Pudge", "role": "Disabler", "primaryAttribute": "Strength",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/pudge_full.png", "com":"Падж" },
+    { "id": 14, "name": "Slark", "role": "Carry", "primaryAttribute": "Agility",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/slark_full.png", "com":"Рыбка" },
+    { "id": 15, "name": "Tinker", "role": "Initiator", "primaryAttribute": "Intelligence",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/tinker_full.png", "com":"Обладатель 2 отчимов" },
+    { "id": 16, "name": "Keeper of the Light", "role": "Nuker", "primaryAttribute": "Intelligence",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/keeper_of_the_light_full.png", "com":"Котел" },
+    { "id": 17, "name": "Sven", "role": "Carry", "primaryAttribute": "Strength",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/sven_full.png", "com":"Свин" },
+    { "id": 18, "name": "Tiny", "role": "Nuker", "primaryAttribute": "Strength",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/tiny_full.png", "com":"Ракен Сакен"   },
+    { "id": 19, "name": "Io", "role": "Support", "primaryAttribute": "Intelligence",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/wisp_full.png", "com":"Слуга" },
+    { "id": 20, "name": "Sniper", "role": "Carry", "primaryAttribute": "Intelligence",  "img": "http://cdn.dota2.com/apps/dota2/images/heroes/sniper_full.png", "com":"ОДнокнопочное говно" }
+  ]    
